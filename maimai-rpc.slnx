@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="maimai-rpc.csproj" Id="2791a901-43ef-4858-af5a-aca98774bcda">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

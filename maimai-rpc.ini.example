@@ -1,0 +1,13 @@
+[General]
+; Placeholder value for testing configuration loading
+PlaceholderKey = PlaceholderValue
+
+[Discord]
+; Discord Application / Client ID
+ApplicationID = 123456789
+
+; Default large image URL / asset key (Discord application icon)
+DefaultLargeImage = image-link
+
+; Update interval in milliseconds (used for connection throttling)
+UpdateIntervalMs = 1000

@@ -1,0 +1,8 @@
+tests
+bin
+lib
+.vs
+obj
+packages
+scratch
+rpc-specs.md
